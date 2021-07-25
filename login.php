@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Login form</h1>
+    <input type="checkbox" name="" id="">
 </body>
 </html>
