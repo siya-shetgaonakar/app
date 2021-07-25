@@ -1,2 +1,2 @@
 # app
-# I am learning it
+# I am learning git
